@@ -1,2 +1,4 @@
 # ws
-关于webservice
+WebService二三事
+webservice是基于http协议的
+
